@@ -8,7 +8,6 @@ Indicator for **Quantower** that visually identifies **trap levels** on the char
 
 If this indicator helps your trading, consider supporting development:
 
-[Donate with ko-fi](https://ko-fi.com/wolfhacktrader)
 
 ## How it works
 
